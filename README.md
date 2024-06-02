@@ -1,9 +1,9 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FEBEEC,50:CA63DE,100:185a9d&height=130&section=header" />
   
-<h2 align="center">Hello👋</h2>
+<h1 align="center">Hello👋</h1>
 
-<h4 align="center">
+<h3 align="center">
 안녕하세요!<br>
 김정온의 Github입니다.<br>
 백엔드와 풀스택 개발을 공부중이며<br>
@@ -11,7 +11,7 @@
 
 📧Email📧<br>
 qansd38@gmail.com / qansd@naver.com  
-</h4>
+</h3>
 
 * * *
 
