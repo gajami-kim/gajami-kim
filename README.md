@@ -1,7 +1,5 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FEBEEC,50:CA63DE,100:185a9d&height=130&section=header" />
-  
-<h1 align="center">Hello👋</h1>
 
 <h3 align="center">
 안녕하세요!<br>
