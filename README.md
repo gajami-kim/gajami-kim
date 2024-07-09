@@ -34,7 +34,7 @@ qansd38@gmail.com / qansd@naver.com
   <img src="https://img.shields.io/badge/CSS3-1572B3?style=for-the-badge&logo=css3&logoColor=white"/></a>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white"/></a>
 </span>
 </div>
 
