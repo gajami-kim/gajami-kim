@@ -49,7 +49,7 @@ qansd38@gmail.com / qansd@naver.com
 
 
 <!--아직 C등급이라 주석..--!>
-<!--<p> 
+<p> 
   <img src="https://github-readme-stats.vercel.app/api?username=gajami-kim&theme=vue&show_icons=true"/></a>
-</p>--!>
+</p>
 </div>
