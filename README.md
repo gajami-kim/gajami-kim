@@ -37,9 +37,6 @@ qansd38@gmail.com / qansd@naver.com
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white"/></a>
 </span>
 </div>
-<p> 
-  <img src="https://github-readme-stats.vercel.app/api?username=gajami-kim&theme=vue&show_icons=true"/></a>
-</p>
 
 * * *
 <!--많이 사용한 언어--!>
