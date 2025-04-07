@@ -4,8 +4,8 @@
 <h3 align="center">
 안녕하세요!<br>
 김정온의 Github입니다.<br>
-백엔드와 풀스택 개발을 공부중이며<br>
-좋은 개발자가 되기 위해 열심히 배우고 있습니다🏃‍♀️<br><br>
+백엔드와 풀스택 개발을 공부했으며<br>
+현재는 좋은 기획자가 되기 위해 열심히 공부하고 있습니다🏃‍♀️<br><br>
 
 📧Email📧<br>
 qansd38@gmail.com / qansd@naver.com  
